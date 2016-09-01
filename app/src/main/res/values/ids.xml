@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etName" type="id">false</item>
+    <item name="etPsw" type="id">false</item>
+    <item name="btnLogin" type="id">false</item>
+    <item name="btnRegister" type="id" />
+    <item name="tvForgot" type="id" />
+</resources>
